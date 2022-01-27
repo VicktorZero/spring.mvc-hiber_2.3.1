@@ -1,4 +1,4 @@
-package web.config.model;
+package web.model;
 
 import javax.persistence.*;
 
